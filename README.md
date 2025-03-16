@@ -63,4 +63,15 @@ As frases-chave são as informações mais importantes no texto. Vamos usar o re
 
 2- Em Amostra, copie e cole a seguinte revisão:
 
-<img src="" alt="Página inicial do azure ai foundry">
+<img src="https://github.com/JefersonManso/desafio_ia_dio/blob/main/inputs/foto_06.png" alt="Página inicial do azure ai foundry">
+
+3- Selecione Executar. Revise a saída. Observe que o resumo extrativo em detalhes fornece pontuações de classificação para as frases mais salientes.
+
+
+### Arrumar
+Se você não pretende fazer mais exercícios, exclua todos os recursos que não são mais necessários. Isso evita o acúmulo de custos desnecessários.
+
+
+### Referências:
+<a>https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html</a>
+<a>https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html</a>
