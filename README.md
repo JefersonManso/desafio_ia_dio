@@ -28,6 +28,7 @@ Neste exercício, você usará o Azure AI Speech no portal Azure AI Foundry, a p
 - Conta de armazenamento
 - Cofre de chaves
 - Grupo de recursos
+
 3- Depois que os recursos forem criados, você será levado à página Visão geral do seu projeto. No menu à esquerda da tela, selecione Serviços de Playgrounds.
 
 <img src="https://github.com/JefersonManso/desafio_ia_dio/blob/main/inputs/foto_03png.png" alt="Página inicial do azure ai foundry">
@@ -38,9 +39,25 @@ Neste exercício, você usará o Azure AI Speech no portal Azure AI Foundry, a p
 Entidades nomeadas são palavras que descrevem pessoas, lugares e objetos com nomes próprios. Vamos usar a funcionalidade de extração de entidade nomeada da Linguagem de IA do Azure para identificar tipos de informações em uma revisão.
 
 1- No playground Idioma, selecione Extrair informações. Em seguida, selecione o bloco Extrair entidades nomeadas.
+
+2- Em Amostra, copie e cole a seguinte revisão:
+
+<img src="https://github.com/JefersonManso/desafio_ia_dio/blob/main/inputs/foto_04.png" alt="Página inicial do azure ai foundry">
+
+3- Selecione <strong>Executar</strong>. Revise a saída. Observe na seção Detalhes como as entidades extraídas vêm com informações adicionais, como pontuações de tipo e confiança. A pontuação de confiança representa a probabilidade de que o tipo identificado realmente pertença a essa categoria.
+
+## Extrair frases-chave com a Linguagem de IA do Azure no portal do Azure AI Foundry
+As frases-chave são as informações mais importantes no texto. Vamos usar o recurso de extração de frases-chave da Linguagem de IA do Azure para extrair informações importantes de uma revisão.
+
+1- No playground Idioma, selecione Extrair informações. Em seguida, selecione o bloco Extrair frases-chave.
+
 2- Em Amostra, copie e cole a seguinte revisão:
 
 <img src="" alt="Página inicial do azure ai foundry">
+
+
+3- Selecione Executar. Revise a saída. Observe as diferentes frases extraídas na seção Detalhes. Essas frases devem contribuir mais para o significado do texto.
+
 
 Explorar a conversão de fala em texto no Playground de Fala do Azure AI Foundry
 Vamos experimentar a conversão de fala em texto no Speech Playground do Azure AI Foundry.
