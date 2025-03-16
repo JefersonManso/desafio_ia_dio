@@ -1,0 +1,2 @@
+ Descrição do Projeto
+Este projeto tem como objetivo analisar sentenças utilizando inteligência artificial. 
