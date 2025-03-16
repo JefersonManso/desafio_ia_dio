@@ -72,6 +72,14 @@ As frases-chave são as informações mais importantes no texto. Vamos usar o re
 Se você não pretende fazer mais exercícios, exclua todos os recursos que não são mais necessários. Isso evita o acúmulo de custos desnecessários.
 
 
-### Referências:
+### Referências: 
+  
 <a>https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html</a>
+
 <a>https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html</a>
+
+<h1>
+  <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span> Saiba mais aqui</span>
+</h1>
