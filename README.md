@@ -10,7 +10,7 @@ Neste exercício, você usará o Azure AI Speech no portal Azure AI Foundry, a p
 
 3- Na home page do portal do Azure AI Foundry, selecione Criar um projeto. No Azure AI Foundry, os projetos são contêineres que ajudam a organizar seu trabalho.
 
-<img src=" " alt="página do painel do copilot"
+<img src="" alt="Página inicial do Copilot Studio">
 
 Captura de tela da home page do Azure AI Foundry com a criação de um projeto selecionada.
 
