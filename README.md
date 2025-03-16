@@ -10,13 +10,12 @@ Neste exercício, você usará o Azure AI Speech no portal Azure AI Foundry, a p
 
 3- Na home page do portal do Azure AI Foundry, selecione Criar um projeto. No Azure AI Foundry, os projetos são contêineres que ajudam a organizar seu trabalho.
 
-<img src="" alt="Página inicial do Copilot Studio">
+<img src="https://github.com/JefersonManso/desafio_ia_dio/blob/main/foto_01png.png" alt="Página inicial do azure ai foundry">
 
-Captura de tela da home page do Azure AI Foundry com a criação de um projeto selecionada.
 
-No painel Criar um projeto, você verá um nome de projeto gerado, que pode ser mantido como está. Dependendo se você criou um hub no passado, verá uma lista de novos recursos do Azure a serem criados ou uma lista suspensa de hubs existentes. Se você vir a lista suspensa de hubs existentes, selecione Criar novo hub, crie um nome exclusivo para seu hub e selecione Avançar.
+4 - No painel Criar um projeto, você verá um nome de projeto gerado, que pode ser mantido como está. Dependendo se você criou um hub no passado, verá uma lista de novos recursos do Azure a serem criados ou uma lista suspensa de hubs existentes. Se você vir a lista suspensa de hubs existentes, selecione Criar novo hub, crie um nome exclusivo para seu hub e selecione Avançar.
 
-Captura de tela do painel criar um projeto com nomes gerados automaticamente para hub e projeto.
+<img src="https://github.com/JefersonManso/desafio_ia_dio/blob/main/foto_01png.png" alt="Página inicial do azure ai foundry">
 
 Importante: você precisará de um recurso de serviços de IA do Azure provisionado em um local específico para concluir o restante do laboratório.
 
