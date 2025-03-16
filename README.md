@@ -53,33 +53,14 @@ As frases-chave são as informações mais importantes no texto. Vamos usar o re
 
 2- Em Amostra, copie e cole a seguinte revisão:
 
-<img src="" alt="Página inicial do azure ai foundry">
-
+<img src="https://github.com/JefersonManso/desafio_ia_dio/blob/main/inputs/foto_05.png" alt="Página inicial do azure ai foundry">
 
 3- Selecione Executar. Revise a saída. Observe as diferentes frases extraídas na seção Detalhes. Essas frases devem contribuir mais para o significado do texto.
 
+## Resumir texto com a Linguagem de IA do Azure no portal do Azure AI Foundry
 
-Explorar a conversão de fala em texto no Playground de Fala do Azure AI Foundry
-Vamos experimentar a conversão de fala em texto no Speech Playground do Azure AI Foundry.
+1- Vejamos os recursos de resumo do Azure AI Language. No playground de idiomas, selecione Resumir informações e, em seguida, selecione o bloco Resumir texto.
 
-Na página Fala, role para baixo e selecione Transcrição em tempo real em Experimentar recursos de fala. Você será levado ao Speech Playground.
+2- Em Amostra, copie e cole a seguinte revisão:
 
-Selecione https://aka.ms/mslearn-speech-files para baixar speech.zip. Abra a pasta.
-
-Em Carregar arquivos, selecione Procurar arquivos e navegue até a pasta onde você salvou o arquivo. Selecione WhatAICanDo.m4a e, em seguida, Abrir.
-
-Procurar arquivos
-
-O serviço de Fala transcreve e exibe o texto em tempo real. Se você tiver áudio em seu computador, poderá ouvir a gravação enquanto o texto está sendo transcrito.
-
-Revise a saída, que deve ter reconhecido e transcrito com êxito o áudio em texto.
-
-Neste exercício, você experimentou os serviços de Fala de IA do Azure no Playground de Fala do Azure AI Foundry. Em seguida, você usou a transcrição em tempo real para transcrever uma gravação de áudio. Você pôde ver a transcrição do texto sendo gerada enquanto o arquivo de áudio era reproduzido.
-
-Arrumar
-Se você não pretende fazer mais exercícios, exclua todos os recursos que não são mais necessários. Isso evita o acúmulo de custos desnecessários.
-
-Abra o portal do Azure e selecione o grupo de recursos que contém o recurso que você criou.
-Selecione o recurso e selecione Excluir e, em seguida, Sim para confirmar. O recurso é então excluído.
-Saiba Mais
-Este exercício demonstrou um dos muitos recursos do serviço de Fala. Para saber mais sobre o que você pode fazer com esse serviço, consulte a página Fala.
+<img src="" alt="Página inicial do azure ai foundry">
