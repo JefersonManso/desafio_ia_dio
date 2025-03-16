@@ -30,11 +30,17 @@ Neste exercício, você usará o Azure AI Speech no portal Azure AI Foundry, a p
 - Grupo de recursos
 3- Depois que os recursos forem criados, você será levado à página Visão geral do seu projeto. No menu à esquerda da tela, selecione Serviços de Playgrounds.
 
+<img src="https://github.com/JefersonManso/desafio_ia_dio/blob/main/inputs/foto_03png.png" alt="Página inicial do azure ai foundry">
+
+4- Na página Serviços de IA, selecione o bloco Fala para experimentar os recursos de Fala de IA do Azure.
+
+## Extrair entidades nomeadas com a Linguagem de IA do Azure no portal do Azure AI Foundry
+Entidades nomeadas são palavras que descrevem pessoas, lugares e objetos com nomes próprios. Vamos usar a funcionalidade de extração de entidade nomeada da Linguagem de IA do Azure para identificar tipos de informações em uma revisão.
+
+1- No playground Idioma, selecione Extrair informações. Em seguida, selecione o bloco Extrair entidades nomeadas.
+2- Em Amostra, copie e cole a seguinte revisão:
+
 <img src="" alt="Página inicial do azure ai foundry">
-
-Na página Serviços de IA, selecione o bloco Fala para experimentar os recursos de Fala de IA do Azure.
-
-Captura de tela do bloco Fala selecionado na página Serviços de IA.
 
 Explorar a conversão de fala em texto no Playground de Fala do Azure AI Foundry
 Vamos experimentar a conversão de fala em texto no Speech Playground do Azure AI Foundry.
