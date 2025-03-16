@@ -15,22 +15,22 @@ Neste exercício, você usará o Azure AI Speech no portal Azure AI Foundry, a p
 
 4 - No painel Criar um projeto, você verá um nome de projeto gerado, que pode ser mantido como está. Dependendo se você criou um hub no passado, verá uma lista de novos recursos do Azure a serem criados ou uma lista suspensa de hubs existentes. Se você vir a lista suspensa de hubs existentes, selecione Criar novo hub, crie um nome exclusivo para seu hub e selecione Avançar.
 
-<img src="https://github.com/JefersonManso/desafio_ia_dio/blob/main/foto_01png.png" alt="Página inicial do azure ai foundry">
+<img src="https://github.com/JefersonManso/desafio_ia_dio/blob/main/foto_02.png" alt="Página inicial do azure ai foundry">
 
-Importante: você precisará de um recurso de serviços de IA do Azure provisionado em um local específico para concluir o restante do laboratório.
+## Importante: você precisará de um recurso de serviços de IA do Azure provisionado em um local específico para concluir o restante do laboratório.
 
-No mesmo painel Criar um projeto, selecione Personalizar e selecione um dos seguintes locais: Leste dos EUA, França Central, Coreia Central, Europa Ocidental ou Oeste dos EUA para concluir o restante do laboratório. Em seguida, selecione criar.
+1- No mesmo painel Criar um projeto, selecione Personalizar e selecione um dos seguintes locais: Leste dos EUA, França Central, Coreia Central, Europa Ocidental ou Oeste dos EUA para concluir o restante do laboratório. Em seguida, selecione criar.
 
-Anote os recursos criados:
-Serviços de IA do Azure
-Hub de IA do Azure
-Projeto de IA do Azure
-Conta de armazenamento
-Cofre de chaves
-Grupo de recursos
-Depois que os recursos forem criados, você será levado à página Visão geral do seu projeto. No menu à esquerda da tela, selecione Serviços de IA.
+2- Anote os recursos criados:
+- Serviços de IA do Azure
+- Hub de IA do Azure
+- Projeto de IA do Azure
+- Conta de armazenamento
+- Cofre de chaves
+- Grupo de recursos
+3- Depois que os recursos forem criados, você será levado à página Visão geral do seu projeto. No menu à esquerda da tela, selecione Serviços de Playgrounds.
 
-Captura de tela do menu à esquerda na tela do projeto com os Serviços de IA selecionados.
+<img src="" alt="Página inicial do azure ai foundry">
 
 Na página Serviços de IA, selecione o bloco Fala para experimentar os recursos de Fala de IA do Azure.
 
